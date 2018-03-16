@@ -1,0 +1,12 @@
+F:\Study\LapTrinhMang\TH-Buoi-2\TH-Buoi-2\bin\Debug\TH-Buoi-2.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-2\TH-Buoi-2\bin\Debug\TH-Buoi-2.exe
+F:\Study\LapTrinhMang\TH-Buoi-2\TH-Buoi-2\bin\Debug\TH-Buoi-2.pdb
+F:\Study\LapTrinhMang\TH-Buoi-2\TH-Buoi-2\bin\Debug\aa-DJ\TH-Buoi-2.resources.dll
+F:\Study\LapTrinhMang\TH-Buoi-2\TH-Buoi-2\obj\Debug\TH-Buoi-2.csprojResolveAssemblyReference.cache
+F:\Study\LapTrinhMang\TH-Buoi-2\TH-Buoi-2\obj\Debug\TH_Buoi_2.Properties.Resources.resources
+F:\Study\LapTrinhMang\TH-Buoi-2\TH-Buoi-2\obj\Debug\TH-Buoi-2.csproj.GenerateResource.Cache
+F:\Study\LapTrinhMang\TH-Buoi-2\TH-Buoi-2\obj\Debug\aa-DJ\TH-Buoi-2.resources.dll
+F:\Study\LapTrinhMang\TH-Buoi-2\TH-Buoi-2\obj\Debug\TH-Buoi-2.exe
+F:\Study\LapTrinhMang\TH-Buoi-2\TH-Buoi-2\obj\Debug\TH-Buoi-2.pdb
+F:\Study\LapTrinhMang\TH-Buoi-2\TH-Buoi-2\obj\Debug\TH_Buoi_2.Server.resources
+F:\Study\LapTrinhMang\TH-Buoi-2\TH-Buoi-2\obj\Debug\TH_Buoi_2.Server.aa-DJ.resources

@@ -1,0 +1,9 @@
+F:\Study\LapTrinhMang\TH-Buoi-2-Client\TH-Buoi-2-Client\bin\Debug\TH-Buoi-2-Client.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-2-Client\TH-Buoi-2-Client\bin\Debug\TH-Buoi-2-Client.exe
+F:\Study\LapTrinhMang\TH-Buoi-2-Client\TH-Buoi-2-Client\bin\Debug\TH-Buoi-2-Client.pdb
+F:\Study\LapTrinhMang\TH-Buoi-2-Client\TH-Buoi-2-Client\obj\Debug\TH-Buoi-2-Client.csprojResolveAssemblyReference.cache
+F:\Study\LapTrinhMang\TH-Buoi-2-Client\TH-Buoi-2-Client\obj\Debug\TH_Buoi_2_Client.Client.resources
+F:\Study\LapTrinhMang\TH-Buoi-2-Client\TH-Buoi-2-Client\obj\Debug\TH_Buoi_2_Client.Properties.Resources.resources
+F:\Study\LapTrinhMang\TH-Buoi-2-Client\TH-Buoi-2-Client\obj\Debug\TH-Buoi-2-Client.csproj.GenerateResource.Cache
+F:\Study\LapTrinhMang\TH-Buoi-2-Client\TH-Buoi-2-Client\obj\Debug\TH-Buoi-2-Client.exe
+F:\Study\LapTrinhMang\TH-Buoi-2-Client\TH-Buoi-2-Client\obj\Debug\TH-Buoi-2-Client.pdb
